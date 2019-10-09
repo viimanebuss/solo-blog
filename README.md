@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.vayne.xyz/my-github-repos)
 * [十一种孤独](https://www.vayne.xyz/articles/2019/09/19/1568880847158.html)
 * [七月](https://www.vayne.xyz/articles/2019/09/05/1567670993064.html)
 * [岁月](https://www.vayne.xyz/articles/2019/09/05/1567670962200.html)
